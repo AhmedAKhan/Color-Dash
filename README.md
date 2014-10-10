@@ -10,5 +10,7 @@ for example green and red make yellow.
 The color wheel coresponds to the additive color (rgb) wheel because in the game the player and the sections are glowing therefore they are emitting light.
 
 Red 	+ 	Green 	= Yellow
+
 Green 	+ 	Blue	= Turquoise
+
 Blue 	+ 	Red		= Purple
